@@ -8,7 +8,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'multi-tab-state',
+    title: 'Multi-tab-state',
     htmlAttrs: {
       lang: 'en'
     },
